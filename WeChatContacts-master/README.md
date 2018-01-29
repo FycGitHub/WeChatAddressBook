@@ -7,7 +7,7 @@
 #联系我
    微信公众号:  iOSDevTeam
    
-   Email: shenguanhua123@gmail.com
+   Email: 1614413846@qq.com
    
-   [我的博客](http://blog.csdn.net/shenguanhua)  
+   [我的简书](https://www.jianshu.com/u/275a5a14166e)  
 
