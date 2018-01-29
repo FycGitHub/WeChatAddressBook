@@ -10,13 +10,12 @@
 		B73C684D201EC35400E45BB9 /* SCIndexViewConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = B73C6847201EC35400E45BB9 /* SCIndexViewConfiguration.m */; };
 		B73C684E201EC35400E45BB9 /* SCIndexView.m in Sources */ = {isa = PBXBuildFile; fileRef = B73C6849201EC35400E45BB9 /* SCIndexView.m */; };
 		B73C684F201EC35400E45BB9 /* UITableView+SCIndexView.m in Sources */ = {isa = PBXBuildFile; fileRef = B73C684B201EC35400E45BB9 /* UITableView+SCIndexView.m */; };
+		B73C6851201EE83C00E45BB9 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B73C6850201EE83C00E45BB9 /* 1.jpeg */; };
+		B73C6853201EE84100E45BB9 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B73C6852201EE84100E45BB9 /* 2.jpeg */; };
 		C12858921C953C9D00ADB888 /* contacts_add_friend@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C12858901C953C9D00ADB888 /* contacts_add_friend@2x.png */; };
 		C12858931C953C9D00ADB888 /* contacts_add_friend@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C12858911C953C9D00ADB888 /* contacts_add_friend@3x.png */; };
 		C128589A1C95464A00ADB888 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C12858981C95464A00ADB888 /* LaunchScreen.storyboard */; };
 		C12858A01C95483F00ADB888 /* footerImage.png in Resources */ = {isa = PBXBuildFile; fileRef = C128589F1C95483F00ADB888 /* footerImage.png */; };
-		C12858AA1C954B8B00ADB888 /* x.png in Resources */ = {isa = PBXBuildFile; fileRef = C12858A71C954B8A00ADB888 /* x.png */; };
-		C12858AB1C954B8B00ADB888 /* y.png in Resources */ = {isa = PBXBuildFile; fileRef = C12858A81C954B8A00ADB888 /* y.png */; };
-		C12858AC1C954B8B00ADB888 /* z.png in Resources */ = {isa = PBXBuildFile; fileRef = C12858A91C954B8B00ADB888 /* z.png */; };
 		C1B394F11C940E7F00EF5544 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C1B394F01C940E7F00EF5544 /* main.m */; };
 		C1B394F41C940E7F00EF5544 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C1B394F31C940E7F00EF5544 /* AppDelegate.m */; };
 		C1B394F71C940E7F00EF5544 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C1B394F61C940E7F00EF5544 /* ViewController.m */; };
@@ -65,13 +64,12 @@
 		B73C684A201EC35400E45BB9 /* SCIndexViewConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCIndexViewConfiguration.h; sourceTree = "<group>"; };
 		B73C684B201EC35400E45BB9 /* UITableView+SCIndexView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableView+SCIndexView.m"; sourceTree = "<group>"; };
 		B73C684C201EC35400E45BB9 /* SCIndexView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCIndexView.h; sourceTree = "<group>"; };
+		B73C6850201EE83C00E45BB9 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		B73C6852201EE84100E45BB9 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
 		C12858901C953C9D00ADB888 /* contacts_add_friend@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "contacts_add_friend@2x.png"; sourceTree = "<group>"; };
 		C12858911C953C9D00ADB888 /* contacts_add_friend@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "contacts_add_friend@3x.png"; sourceTree = "<group>"; };
 		C12858991C95464A00ADB888 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "WeChatContacts-demo/Base.lproj/LaunchScreen.storyboard"; sourceTree = "<group>"; };
 		C128589F1C95483F00ADB888 /* footerImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = footerImage.png; sourceTree = "<group>"; };
-		C12858A71C954B8A00ADB888 /* x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x.png; sourceTree = "<group>"; };
-		C12858A81C954B8A00ADB888 /* y.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = y.png; sourceTree = "<group>"; };
-		C12858A91C954B8B00ADB888 /* z.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = z.png; sourceTree = "<group>"; };
 		C1B394EC1C940E7F00EF5544 /* WeChatContacts-demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WeChatContacts-demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1B394F01C940E7F00EF5544 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C1B394F21C940E7F00EF5544 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -176,9 +174,8 @@
 		C1B394EE1C940E7F00EF5544 /* WeChatContacts-demo */ = {
 			isa = PBXGroup;
 			children = (
-				C12858A71C954B8A00ADB888 /* x.png */,
-				C12858A81C954B8A00ADB888 /* y.png */,
-				C12858A91C954B8B00ADB888 /* z.png */,
+				B73C6850201EE83C00E45BB9 /* 1.jpeg */,
+				B73C6852201EE84100E45BB9 /* 2.jpeg */,
 				C1B395071C940F2A00EF5544 /* Resources */,
 				C1B395061C940F0200EF5544 /* libs */,
 				C1B394F21C940E7F00EF5544 /* AppDelegate.h */,
@@ -395,25 +392,24 @@
 				C1B3956E1C9420E900EF5544 /* 15.png in Resources */,
 				C1B3956D1C9420E900EF5544 /* 14.png in Resources */,
 				C1B395671C9420E900EF5544 /* 8.png in Resources */,
-				C12858AB1C954B8B00ADB888 /* y.png in Resources */,
 				C1B395621C9420E900EF5544 /* 3.png in Resources */,
 				C1B395701C9420E900EF5544 /* 17.png in Resources */,
 				C12858A01C95483F00ADB888 /* footerImage.png in Resources */,
 				C12858921C953C9D00ADB888 /* contacts_add_friend@2x.png in Resources */,
 				C1B3956F1C9420E900EF5544 /* 16.png in Resources */,
 				C1B3959C1C942C0000EF5544 /* ic_searchBar_bgImage@2x.png in Resources */,
-				C12858AC1C954B8B00ADB888 /* z.png in Resources */,
 				C1B395611C9420E900EF5544 /* 2.png in Resources */,
 				C1B395641C9420E900EF5544 /* 5.png in Resources */,
+				B73C6851201EE83C00E45BB9 /* 1.jpeg in Resources */,
 				C1B3956A1C9420E900EF5544 /* 11.png in Resources */,
 				C1B394FC1C940E7F00EF5544 /* Assets.xcassets in Resources */,
 				C128589A1C95464A00ADB888 /* LaunchScreen.storyboard in Resources */,
 				C1B395681C9420E900EF5544 /* 9.png in Resources */,
 				C1B395601C9420E900EF5544 /* 1.png in Resources */,
 				C1B3956B1C9420E900EF5544 /* 12.png in Resources */,
+				B73C6853201EE84100E45BB9 /* 2.jpeg in Resources */,
 				C1B394FA1C940E7F00EF5544 /* Main.storyboard in Resources */,
 				C1B3959E1C94336500EF5544 /* navBar_bg.png in Resources */,
-				C12858AA1C954B8B00ADB888 /* x.png in Resources */,
 				C1B395691C9420E900EF5544 /* 10.png in Resources */,
 				C1B395651C9420E900EF5544 /* 6.png in Resources */,
 				C1B395631C9420E900EF5544 /* 4.png in Resources */,
