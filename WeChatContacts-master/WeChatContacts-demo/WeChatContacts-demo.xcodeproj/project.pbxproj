@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01C1C3FB20F5A51100AAB695 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C1C3FA20F5A51100AAB695 /* FirstViewController.m */; };
 		B73C684D201EC35400E45BB9 /* SCIndexViewConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = B73C6847201EC35400E45BB9 /* SCIndexViewConfiguration.m */; };
 		B73C684E201EC35400E45BB9 /* SCIndexView.m in Sources */ = {isa = PBXBuildFile; fileRef = B73C6849201EC35400E45BB9 /* SCIndexView.m */; };
 		B73C684F201EC35400E45BB9 /* UITableView+SCIndexView.m in Sources */ = {isa = PBXBuildFile; fileRef = B73C684B201EC35400E45BB9 /* UITableView+SCIndexView.m */; };
@@ -58,6 +59,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		01C1C3F920F5A51100AAB695 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		01C1C3FA20F5A51100AAB695 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		B73C6847201EC35400E45BB9 /* SCIndexViewConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCIndexViewConfiguration.m; sourceTree = "<group>"; };
 		B73C6848201EC35400E45BB9 /* UITableView+SCIndexView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableView+SCIndexView.h"; sourceTree = "<group>"; };
 		B73C6849201EC35400E45BB9 /* SCIndexView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCIndexView.m; sourceTree = "<group>"; };
@@ -191,6 +194,8 @@
 				C1B394FB1C940E7F00EF5544 /* Assets.xcassets */,
 				C1B395001C940E7F00EF5544 /* Info.plist */,
 				C1B394EF1C940E7F00EF5544 /* Supporting Files */,
+				01C1C3F920F5A51100AAB695 /* FirstViewController.h */,
+				01C1C3FA20F5A51100AAB695 /* FirstViewController.m */,
 			);
 			path = "WeChatContacts-demo";
 			sourceTree = "<group>";
@@ -441,6 +446,7 @@
 				B73C684F201EC35400E45BB9 /* UITableView+SCIndexView.m in Sources */,
 				C1B395921C94226600EF5544 /* JSONAPI.m in Sources */,
 				C1B395281C941AE100EF5544 /* ContactDataHelper.m in Sources */,
+				01C1C3FB20F5A51100AAB695 /* FirstViewController.m in Sources */,
 				C1B394F41C940E7F00EF5544 /* AppDelegate.m in Sources */,
 				C1B3958F1C94226600EF5544 /* JSONModelClassProperty.m in Sources */,
 				C1B394F11C940E7F00EF5544 /* main.m in Sources */,
