@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		012BFC0720FE369500FDF1D0 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 012BFC0620FE369500FDF1D0 /* TestViewController.m */; };
 		01C1C3FB20F5A51100AAB695 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C1C3FA20F5A51100AAB695 /* FirstViewController.m */; };
 		B73C684D201EC35400E45BB9 /* SCIndexViewConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = B73C6847201EC35400E45BB9 /* SCIndexViewConfiguration.m */; };
 		B73C684E201EC35400E45BB9 /* SCIndexView.m in Sources */ = {isa = PBXBuildFile; fileRef = B73C6849201EC35400E45BB9 /* SCIndexView.m */; };
@@ -59,6 +60,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		012BFC0520FE369500FDF1D0 /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		012BFC0620FE369500FDF1D0 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 		01C1C3F920F5A51100AAB695 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		01C1C3FA20F5A51100AAB695 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		B73C6847201EC35400E45BB9 /* SCIndexViewConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCIndexViewConfiguration.m; sourceTree = "<group>"; };
@@ -144,6 +147,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		012BFC0420FE368300FDF1D0 /* test */ = {
+			isa = PBXGroup;
+			children = (
+				012BFC0520FE369500FDF1D0 /* TestViewController.h */,
+				012BFC0620FE369500FDF1D0 /* TestViewController.m */,
+			);
+			path = test;
+			sourceTree = "<group>";
+		};
 		B73C6846201EC35400E45BB9 /* SCIndexView */ = {
 			isa = PBXGroup;
 			children = (
@@ -160,6 +172,7 @@
 		C1B394E31C940E7F00EF5544 = {
 			isa = PBXGroup;
 			children = (
+				012BFC0420FE368300FDF1D0 /* test */,
 				B73C6846201EC35400E45BB9 /* SCIndexView */,
 				C1B394EE1C940E7F00EF5544 /* WeChatContacts-demo */,
 				C1B394ED1C940E7F00EF5544 /* Products */,
@@ -448,6 +461,7 @@
 				C1B395281C941AE100EF5544 /* ContactDataHelper.m in Sources */,
 				01C1C3FB20F5A51100AAB695 /* FirstViewController.m in Sources */,
 				C1B394F41C940E7F00EF5544 /* AppDelegate.m in Sources */,
+				012BFC0720FE369500FDF1D0 /* TestViewController.m in Sources */,
 				C1B3958F1C94226600EF5544 /* JSONModelClassProperty.m in Sources */,
 				C1B394F11C940E7F00EF5544 /* main.m in Sources */,
 				C1B395221C94179D00EF5544 /* ContactModel.m in Sources */,
