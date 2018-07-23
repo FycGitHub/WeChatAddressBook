@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface TestViewController : UIViewController
-
+@property(nonatomic,assign) NSString  *str;
 @end
