@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"测试带啊吗");
     // Do any additional setup after loading the view.
 }
 
