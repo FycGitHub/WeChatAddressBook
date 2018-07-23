@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    int a = 1;
+    NSLog(@"测试通知");
     NSLog(@"1.1.1");
     // Do any additional setup after loading the view.
 }
